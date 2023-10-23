@@ -1,0 +1,16 @@
+{
+    "name": "oskar/client-manager-app",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oskar Lukaszewicz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

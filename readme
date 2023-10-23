@@ -1,0 +1,8 @@
+How to start!
+
+1. Create mySql database
+2. Set config file
+3. Start the php server (E.g. on localhost)
+4. Start app, you will be redirected to settings page
+5. There you can migrate tables to your database (button 1.) and use the data fixtures (button 2.)
+6. Client Manager App is ready for Testing!
